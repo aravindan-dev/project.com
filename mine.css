@@ -1,0 +1,18 @@
+table td,th,select{
+	padding:20px 50px;;
+	margin:10px;
+	font-size:50px;
+	text-align:centre;
+	border:5px solid black;
+	justify-content:centre;
+}
+*{
+	border-collapse:collapse;
+}
+table th{
+	text-align:centre;
+	font-size:50px;
+}
+table tr{
+	font-size:40px;
+}
